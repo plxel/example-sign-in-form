@@ -1,6 +1,0 @@
-.alert {
-  padding: 16px;
-  border: 1px solid var(--error-color);
-  background-color: var(--error-color-light);
-  border-radius: var(--border-radius);
-}
