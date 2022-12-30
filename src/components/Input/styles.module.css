@@ -13,6 +13,6 @@
 }
 
 .input:focus,
-input:focus-visible {
-  outline: 4px auto var(--primary-color-outline);
+.input:focus-visible {
+  outline: 4px auto var(--primary-color-outline);  
 }
